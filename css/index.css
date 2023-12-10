@@ -2286,6 +2286,7 @@ textarea.input {
   -webkit-transition: var(--transition);
   -o-transition: var(--transition);
   transition: var(--transition);
+  z-index: 2;
 }
 
 .works__gallery-title {
